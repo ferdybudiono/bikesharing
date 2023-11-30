@@ -1,4 +1,4 @@
-# Bike Sharing Dataset Analist by Ferdy Budiono
+# Bike Sharing Dataset Analist & Visualization by Ferdy Budiono
 
 ## Setup environment
 ```
